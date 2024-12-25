@@ -38,7 +38,7 @@ Espresso is a responsive website designed to represent a coffee shop. The websit
 
 You can view the live demo of the website hosted on Vercel by clicking the link below:
 
-[Live Demo]()
+[Live Demo](https://espresso-ruddy.vercel.app/)
 
 ## Installation Instructions
 
